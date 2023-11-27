@@ -1,44 +1,44 @@
 {
     "WBUI2": {
-      "settings": {
-          "OpenButton": 0,
-          "HideIcon": false,
-          "HideIconAfter": 60,
-          "IconURL": "https://imgur.com/O0j3PFl",
-          "DisableIconText": true,
-          "IconPosition": 0,
-          "IconTextColor": 0,
-          "OpenOnStart": true,
-          "OpenOnStartOnlyNewPlayers": true,
-          "UpdateInterval": 12
-        }
-      "tabs": [
-        {
-          "tab1": {
-            "layout": 1,
-            "buttontext": "Bem vindos!",
-            "title1": "Achatina Server PVE",
-            "text1": "Esse servidor é público e não oficial. Temos algumas regras e é obrigatório ler e segui-las. Venham jogar conosco para se divertir.",
-            "imageurl": "https://imgur.com/g3uP8Oz"
-          }
-        }
-        {
-          "tab2": {
-            "layout": 1,
-            "buttontext": "Regras/Rules/Normas",
-            "title1": "Regras/Rules/Normas",
-            "text1": "Esse servidor é público e não oficial. Temos algumas regras e é obrigatório ler e segui-las. Venham jogar conosco para se divertir.",
-            "imageurl": "https://imgur.com/g3uP8Oz"
-        }
-      }
-    ],
-      "links": [
-        {
-          "link1": {
-            "text": "Discord",
-            "url": "https://discord.gg/gZKAH9yF"
-          }
-        }
-      ]
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/O0j3PFl",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Bem vindos!",
+                    "title1": "Achatina Server PVE",
+                    "text1": "Esse servidor é público e não oficial. Temos algumas regras e é obrigatório ler e segui-las. Venham jogar conosco para se divertir.",
+                    "imageurl": "https://imgur.com/g3uP8Oz"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Regras/Rules/Normas",
+                    "title1": "Regras/Rules/Normas",
+                    "text1": "Esse servidor é público e não oficial. Temos algumas regras e é obrigatório ler e segui-las. Venham jogar conosco para se divertir.",
+                    "imageurl": "https://imgur.com/g3uP8Oz"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/gZKAH9yF"
+                }
+            }
+        ]
     }
-  }
+}
